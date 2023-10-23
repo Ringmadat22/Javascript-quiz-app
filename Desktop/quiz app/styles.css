@@ -68,3 +68,11 @@ body {
     display: block;
     display: none;
 }
+
+.correct {
+    background-color: #9aeabc;
+}
+
+.incorrect{
+    background: #ff9393;
+}
