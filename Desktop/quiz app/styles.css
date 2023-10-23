@@ -27,5 +27,9 @@ body {
 }
 
 .quiz {
-    papdd
+    padding: 20px 0;
+}
+
+.quiz h2 {
+    font-size: 18px;
 }
