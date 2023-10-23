@@ -35,5 +35,5 @@ const questions = [
             {text: "Unemployed", correct:"false"},
             {text: "Software engineer", correct:"true"}
         ]
-    },
+    }
 ]
