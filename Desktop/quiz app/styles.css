@@ -18,3 +18,8 @@ body {
     padding: 30px;
 }
 
+.app h1 {
+    font-weight: 25px;
+    color: #001e4d;
+    font-weight: 600;
+}
